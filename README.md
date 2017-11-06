@@ -13,7 +13,7 @@
 
 # BASIC GIT COMMANDS
 - Creating a repository
-``git init``
+``git init .``
 
 - Cloning an existing repository
 ``git clone <URL>``
