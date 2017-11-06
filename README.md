@@ -1,6 +1,4 @@
-######################
-# GIT WORKFLOW       #
-######################
+# GIT WORKFLOW
 1. Initial (clone == copy)
 2. Fetch & merge (pull)
 3. Branching, tagging
@@ -8,9 +6,11 @@
 5. Commit to local repository
 6. Push changes on origin
 
-######################
-# BASIC GIT COMMANDS #
-######################
+# Useful references
+1. https://git-scm.com/book/vi/v1
+2. https://backlog.com/git-tutorial/vn/intro/intro1_1.html
+
+# BASIC GIT COMMANDS
 # Creating a repository
 git init
 
