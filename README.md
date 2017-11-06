@@ -42,8 +42,8 @@
 ``git revert <commit hash number>``
 
 - Create new Branch
-``git branch <branch name>`` >create branch only
-``git checkout -b <branch name>`` >create & checkout branch
+``git branch <branch name>`` > create branch only
+``git checkout -b <branch name>`` > create & checkout branch
 
 - Switch to another branch
 ``git checkout <branch name>``
