@@ -6,7 +6,7 @@
 5. Commit to local repository
 6. Push changes on origin
 
-# Useful references
+# USEFUL REFERENCES
 1. https://git-scm.com/book/vi/v1
 2. https://backlog.com/git-tutorial/vn/intro/intro1_1.html
 
