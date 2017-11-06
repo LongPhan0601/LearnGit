@@ -12,65 +12,65 @@
 
 # BASIC GIT COMMANDS
 - Creating a repository
-git init
+``git init``
 
 - Cloning an existing repository
-git clone <URL>
+``git clone <URL>``
 
 - Add new file
-git add README.txt
+``git add README.txt``
 
 - Remove file
-git rm README.txt
+``git rm README.txt``
 
 - Commit changes
-git commit -am "Some comments"
+``git commit -am "Some comments"``
 
 - Show log
-git log
+``git log``
 
 - Show commit
-git show
+``git show``
 
 - Show difference
-git diff
+``git diff``
 
 - Undo changes
-git checkout -- README.txt
+``git checkout -- README.txt``
 
 - Revert to specific commit
-git revert <commit hash number>
+``git revert <commit hash number>``
 
 - Create new Branch
-git branch <branch name> # create branch only
+``git branch <branch name> # create branch only``
 git checkout -b <branch name> # create & checkout branch
 
 - Switch to another branch
-git checkout <branch name>
+``git checkout <branch name>``
 
 - Delete branch
-git branch -d <branch name>
+``git branch -d <branch name>``
 
 - Show all branches
-git branch -a
+``git branch -a``
 
 - Create new Annotated Tag
-git tag -a <tag name>
+``git tag -a <tag name>``
 
 - Show all tags
-git tag
+``git tag``
 
 - Delete a tag
-git tag -d <tag name>
+``git tag -d <tag name>``
 
 - Push changes to remote
-git push origin <banch name>
+``git push origin <banch name>``
 
 - Apply new change & merge
-git pull
+``git pull``
 
 - Get new update only (not merge)
-git fetch
+``git fetch``
 
 - Merge changes
-git merge origin master
+``git merge origin master``
