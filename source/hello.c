@@ -1,6 +1,9 @@
 #include <stdio.h>
 
-void function();
+void function()
+{
+    printf("");
+}
 
 int main (int argc, char** argv)
 {
