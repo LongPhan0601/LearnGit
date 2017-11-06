@@ -9,6 +9,7 @@
 # USEFUL REFERENCES
 1. https://git-scm.com/book/vi/v1
 2. https://backlog.com/git-tutorial/vn/intro/intro1_1.html
+3. http://nvie.com/posts/a-successful-git-branching-model/
 
 # BASIC GIT COMMANDS
 - Creating a repository
