@@ -11,66 +11,66 @@
 2. https://backlog.com/git-tutorial/vn/intro/intro1_1.html
 
 # BASIC GIT COMMANDS
---Creating a repository
+- Creating a repository
 git init
 
---Cloning an existing repository
+- Cloning an existing repository
 git clone <URL>
 
---Add new file
+- Add new file
 git add README.txt
 
---Remove file
+- Remove file
 git rm README.txt
 
---Commit changes
+- Commit changes
 git commit -am "Some comments"
 
---Show log
+- Show log
 git log
 
---Show commit
+- Show commit
 git show
 
---Show difference
+- Show difference
 git diff
 
---Undo changes
+- Undo changes
 git checkout -- README.txt
 
---Revert to specific commit
+- Revert to specific commit
 git revert <commit hash number>
 
---Create new Branch
+- Create new Branch
 git branch <branch name> # create branch only
 git checkout -b <branch name> # create & checkout branch
 
---Switch to another branch
+- Switch to another branch
 git checkout <branch name>
 
---Delete branch
+- Delete branch
 git branch -d <branch name>
 
---Show all branches
+- Show all branches
 git branch -a
 
---Create new Annotated Tag
+- Create new Annotated Tag
 git tag -a <tag name>
 
---Show all tags
+- Show all tags
 git tag
 
---Delete a tag
+- Delete a tag
 git tag -d <tag name>
 
---Push changes to remote
+- Push changes to remote
 git push origin <banch name>
 
---Apply new change & merge
+- Apply new change & merge
 git pull
 
---Get new update only (not merge)
+- Get new update only (not merge)
 git fetch
 
---Merge changes
+- Merge changes
 git merge origin master
